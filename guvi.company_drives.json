@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "668e78aa8603cdab1f5bd0d0"
+  },
+  "company_name": "Accenture",
+  "date": "12-07-24",
+  "students_appeared": "yes"
+},
+{
+  "_id": {
+    "$oid": "668e78aa8603cdab1f5bd0d1"
+  },
+  "company_name": "Zoho",
+  "date": "12-07-24",
+  "students_appeared": "no"
+}]

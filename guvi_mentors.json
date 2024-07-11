@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "668e7ba58603cdab1f5bd0d2"
+  },
+  "Mentorname": "Sanjay",
+  "mentees": [
+    "arockiyam",
+    "sanju"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668e7ba58603cdab1f5bd0d3"
+  },
+  "Mentorname": "Nagarajan",
+  "mentees": [
+    "john",
+    "jane",
+    "mike"
+  ]
+}]

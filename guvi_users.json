@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "668e729b8603cdab1f5bd0c6"
+  },
+  "name": "Jinu",
+  "email": "jinunick@gmail.com",
+  "mentors": [
+    "sanjay",
+    "nagarajan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668e729b8603cdab1f5bd0c7"
+  },
+  "name": "Jane Smith",
+  "email": "jane.smith@example.com",
+  "mentor": [
+    "simson"
+  ]
+}]
